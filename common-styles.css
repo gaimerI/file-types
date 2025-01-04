@@ -1,0 +1,8 @@
+body {
+  background-color: #d3d7d6;
+  color: #444545;
+}
+
+table, th, td {
+  border: 1px groove #444545;
+}
